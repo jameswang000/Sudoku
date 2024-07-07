@@ -37,7 +37,7 @@ def writeFile(path, contents):
         f.write(contents)
 
 #Use this to access the boards folder whenever you need something from it.
-path = "./tp-starter-files\\boards"
+path = "./assets\\boards"
 
 ######################
 # APP BELOW HERE
